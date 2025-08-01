@@ -1,43 +1,54 @@
-﻿# Basic_Projects
+# Basic_Projects
 
-A collection of basic programming projects showcasing different technologies and concepts.
+A curated collection of beginner to intermediate programming projects demonstrating fundamental to advanced concepts across different technologies and domains.
 
 ## Projects
 
-### 1. [ToDo List](Basic-Projects\TodoList)
-An Android application for managing daily tasks and to-do items. Built with modern Android development practices using Kotlin and Gradle.
+---
+
+### 1. [ToDo List](./TodoList)
+
+An Android application for managing daily tasks and organising your schedule effectively. Built with modern Android development tools and Kotlin.
 
 **Features:**
-- Add, edit, and delete tasks
-- Mark tasks as complete
-- Clean and intuitive user interface
+- Add, edit, and delete tasks  
+- Mark tasks as complete/incomplete  
+- Intuitive and responsive user interface  
+- Built using **Kotlin**, **Android SDK**, and **Gradle**
 
-### 2. [Calculator](Calculator)
-A scientific calculator application built with Python. Performs advanced mathematical operations with a user-friendly interface.
+---
 
-**Features:**
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Scientific functions (trigonometry, logarithms, exponentials)
-- Advanced mathematical operations
-- Clean and intuitive design
-- Error handling for invalid inputs
+### 2. [Calculator](./Calculator)
 
-### 3. [AI-Powered Algorithmic Trading Build using LSTM Model](AI-Powered Algorithmic Trading Build using LSTM Model)
-A machine learning project that uses Long Short-Term Memory (LSTM) neural networks for stock price prediction and algorithmic trading.
+A desktop-based scientific calculator built in Python. Designed for both basic and advanced mathematical operations.
 
 **Features:**
-- LSTM model for time series prediction
-- Real-time stock data analysis
-- Training and prediction notebooks
-- Pre-trained models and scalers
-- Historical stock data (AAPL 2022-2024)
+- Basic arithmetic (add, subtract, multiply, divide)  
+- Scientific functions (trigonometry, logarithms, exponentials)  
+- Advanced calculations and error handling  
+- Built with **Python** using GUI frameworks (Tkinter)
+
+---
+
+### 3. [AI-Powered Algorithmic Trading using LSTM](./AI-Powered%20Algorithmic%20Trading%20Build%20using%20LSTM%20Model)
+
+A machine learning-driven project focused on stock price prediction and algorithmic trading strategies using **LSTM (Long Short-Term Memory)** models.
+
+**Features:**
+- Time-series forecasting using LSTM neural networks  
+- Historical stock data analysis (AAPL: 2022–2024)  
+- Jupyter notebooks for training, evaluation, and predictions  
+- Pre-trained models and scalers included  
 
 **Technologies Used:**
-- Python
-- TensorFlow/Keras
-- Pandas & NumPy
+- Python  
+- TensorFlow / Keras  
+- Pandas & NumPy  
+- Matplotlib / Seaborn  
 - Jupyter Notebooks
 
+---
 
+## Contributing
 
-
+You're welcome to contribute more mini-projects or enhance existing ones. Please follow standard Git workflow and coding best practices.
