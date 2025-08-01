@@ -1,5 +1,5 @@
 ---
-##
+## Disclaimer
 
 This course is intended **purely for educational purposes**.
 
