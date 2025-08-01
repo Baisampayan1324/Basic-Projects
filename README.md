@@ -12,7 +12,7 @@ An Android application for managing daily tasks and to-do items. Built with mode
 - Mark tasks as complete
 - Clean and intuitive user interface
 
-### 2. [Calculator](Basic-Projects\Calculator)
+### 2. [Calculator](Calculator)
 A scientific calculator application built with Python. Performs advanced mathematical operations with a user-friendly interface.
 
 **Features:**
@@ -37,4 +37,5 @@ A machine learning project that uses Long Short-Term Memory (LSTM) neural networ
 - TensorFlow/Keras
 - Pandas & NumPy
 - Jupyter Notebooks
+
 
