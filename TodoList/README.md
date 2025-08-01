@@ -15,7 +15,7 @@ This is a basic To-Do List application developed as a mini Android project to de
 - **Persistent Storage**: Tasks are saved locally on the device
 - **Material Design**: Follows Android Material Design guidelines
 
-## 🛠Built With
+## Built With
 
 - **Language**: Java
 - **IDE**: Android Studio
@@ -115,7 +115,7 @@ TodoList/
 - [ ] Due date and time reminders
 - [ ] Task priority levels
 - [ ] Dark mode support
-- [ ] Cloud synchronization
+- [ ] Cloud synchronisation
 - [ ] Task sharing functionality
 - [ ] Search and filter options
 
