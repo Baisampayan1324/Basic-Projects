@@ -2,11 +2,11 @@
 
 A simple and intuitive Android To-Do List application built with Java in Android Studio. This mini application helps users manage their daily tasks efficiently with a clean and user-friendly interface.
 
-## 📱 About
+## About
 
-This is a basic To-Do List application developed as a mini Android project to demonstrate fundamental Android development concepts using Java. The app provides essential task management functionality with a focus on simplicity and ease of use.
+This is a basic To-Do List application developed as a mini Android project to demonstrate fundamental Android development concepts using Java. The app offers essential task management functionality, focusing on simplicity and ease of use.
 
-## ✨ Features
+## Features
 
 - **Add Tasks**: Create new tasks with ease
 - **Mark Complete**: Check off completed tasks
@@ -15,7 +15,7 @@ This is a basic To-Do List application developed as a mini Android project to de
 - **Persistent Storage**: Tasks are saved locally on the device
 - **Material Design**: Follows Android Material Design guidelines
 
-## 🛠️ Built With
+## 🛠Built With
 
 - **Language**: Java
 - **IDE**: Android Studio
@@ -23,7 +23,7 @@ This is a basic To-Do List application developed as a mini Android project to de
 - **Build System**: Gradle
 - **UI**: XML Layouts with Material Design
 
-## 📸 Screenshots
+## Screenshots
 
 The application interface and functionality are showcased in the following screenshots:
 
@@ -35,7 +35,7 @@ The application interface and functionality are showcased in the following scree
 |:---:|:---:|
 | ![Screenshot 4](assets/Screenshot_4.jpg) | ![Screenshot 5](assets/Screenshot_5.jpg) |
 
-## 🎥 Demo Video
+## Demo Video
 
 Watch the application in action:
 
@@ -43,7 +43,7 @@ Watch the application in action:
 
 *Note: If the video doesn't play inline, you can download and view the [demo.mp4](assets/demo.mp4) file.*
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ Watch the application in action:
    - Connect an Android device or start an emulator
    - Click the "Run" button or use `Shift + F10`
 
-## 📱 APK Installation
+## APK Installation
 
 A pre-built APK is available in the `app/build/outputs/apk/release/` directory:
 - `To-Do.apk` - Ready to install on Android devices
@@ -81,7 +81,7 @@ To install:
 2. Download and install the APK file
 3. Launch the "To-Do" app from your app drawer
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 TodoList/
@@ -101,7 +101,7 @@ TodoList/
 └── settings.gradle.kts       # Project settings
 ```
 
-## 🔧 Key Components
+## Key Components
 
 - **MainActivity**: Main activity handling the UI and user interactions
 - **Task Adapter**: RecyclerView adapter for displaying tasks
@@ -109,7 +109,7 @@ TodoList/
 - **Database Helper**: SQLite database for local data persistence
 - **Custom Layouts**: XML layouts for different screens and components
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - [ ] Task categories and labels
 - [ ] Due date and time reminders
@@ -119,17 +119,17 @@ TodoList/
 - [ ] Task sharing functionality
 - [ ] Search and filter options
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 📞 Contact
+## Contact
 
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions or suggestions, please don't hesitate to reach out.
 
 ---
 
