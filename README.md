@@ -22,7 +22,7 @@ A scientific calculator application built with Python. Performs advanced mathema
 - Clean and intuitive design
 - Error handling for invalid inputs
 
-### 3. [AI-Powered Algorithmic Trading Build using LSTM Model](Basic-Projects\AI-Powered%20Algorithmic%20Trading%20Build%20using%20LSTM%20Model)
+### 3. [AI-Powered Algorithmic Trading Build using LSTM Model](AI-Powered Algorithmic Trading Build using LSTM Model)
 A machine learning project that uses Long Short-Term Memory (LSTM) neural networks for stock price prediction and algorithmic trading.
 
 **Features:**
@@ -37,5 +37,6 @@ A machine learning project that uses Long Short-Term Memory (LSTM) neural networ
 - TensorFlow/Keras
 - Pandas & NumPy
 - Jupyter Notebooks
+
 
 
