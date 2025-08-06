@@ -4,8 +4,6 @@ A curated collection of beginner to intermediate programming projects demonstrat
 
 ## Projects
 
----
-
 ### 1. [ToDo List](./TodoList)
 
 An Android application for managing daily tasks and organising your schedule effectively. Built with modern Android development tools and Kotlin.
@@ -15,6 +13,14 @@ An Android application for managing daily tasks and organising your schedule eff
 - Mark tasks as complete/incomplete  
 - Intuitive and responsive user interface  
 - Built using **Kotlin**, **Android SDK**, and **Gradle**
+
+**Technologies Used:**
+- Java
+- Android Studio
+- Android SDK
+- Gradle
+- XML Layouts
+- Material Design
 
 ---
 
@@ -27,6 +33,11 @@ A desktop-based scientific calculator built in Python. Designed for both basic a
 - Scientific functions (trigonometry, logarithms, exponentials)  
 - Advanced calculations and error handling  
 - Built with **Python** using GUI frameworks (Tkinter)
+
+**Technologies Used:**
+- Python 3.x
+- Tkinter (GUI framework)
+- math (Python standard library)
 
 ---
 
@@ -45,6 +56,28 @@ A machine learning-driven project focused on stock price prediction and algorith
 - TensorFlow / Keras  
 - Pandas & NumPy  
 - Matplotlib / Seaborn  
+- Jupyter Notebooks
+
+---
+
+### 4. [Weather Data Analysis](./Weather%20Data%20Analysis)
+
+A Python project for analyzing weather data using pandas and visualizing results with matplotlib and seaborn.
+
+**Features:**
+- Loads and inspects weather datasets
+- Explores unique weather conditions
+- Performs filtering, grouping, and advanced analysis
+- Calculates statistics (mean, std, variance)
+- Handles missing values and renames columns
+- Visualizes average temperature by weather condition (bar plot)
+- All analysis steps combined for streamlined workflow
+
+**Technologies Used:**
+- Python
+- pandas
+- matplotlib
+- seaborn
 - Jupyter Notebooks
 
 ---
