@@ -37,6 +37,3 @@ Weather-Data-Analysis/
 │   └── weather_data.ipynb
 └── README.md
 ```
-
-## Author
-Baisampayan1324
